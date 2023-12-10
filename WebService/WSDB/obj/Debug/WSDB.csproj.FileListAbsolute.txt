@@ -1,0 +1,14 @@
+C:\Users\vladb\Desktop\WebService\WebServiceDataBase-master\WSDB\bin\WSDB.dll.config
+C:\Users\vladb\Desktop\WebService\WebServiceDataBase-master\WSDB\bin\WSDB.dll
+C:\Users\vladb\Desktop\WebService\WebServiceDataBase-master\WSDB\bin\WSDB.pdb
+C:\Users\vladb\Desktop\WebService\WebServiceDataBase-master\WSDB\bin\EntityFramework.dll
+C:\Users\vladb\Desktop\WebService\WebServiceDataBase-master\WSDB\bin\EntityFramework.SqlServer.dll
+C:\Users\vladb\Desktop\WebService\WebServiceDataBase-master\WSDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vladb\Desktop\WebService\WebServiceDataBase-master\WSDB\bin\EntityFramework.xml
+C:\Users\vladb\Desktop\WebService\WebServiceDataBase-master\WSDB\bin\EntityFramework.SqlServer.xml
+C:\Users\vladb\Desktop\WebService\WebServiceDataBase-master\WSDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vladb\Desktop\WebService\WebServiceDataBase-master\WSDB\obj\Debug\WSDB.csproj.AssemblyReference.cache
+C:\Users\vladb\Desktop\WebService\WebServiceDataBase-master\WSDB\obj\Debug\WSDB.csproj.CoreCompileInputs.cache
+C:\Users\vladb\Desktop\WebService\WebServiceDataBase-master\WSDB\obj\Debug\WSDB.csproj.CopyComplete
+C:\Users\vladb\Desktop\WebService\WebServiceDataBase-master\WSDB\obj\Debug\WSDB.dll
+C:\Users\vladb\Desktop\WebService\WebServiceDataBase-master\WSDB\obj\Debug\WSDB.pdb
